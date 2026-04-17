@@ -28,6 +28,9 @@ Pantify is a Flutter-based plant marketplace app that allows users to browse, or
 ### Screen 3
 ![Screen 3](https://github.com/user-attachments/assets/d6fa63be-4dfb-4ef8-9f27-7eeafdc7a485)
 
+🔗 Demo available on LinkedIn
+https://www.linkedin.com/posts/hajar-abdallah-177836280_flutter-supabase-riverpod-activity-7393794620272295936-TDRO?utm_medium=ios_app&rcm=ACoAAER3fGsB-wHeA6DrziSBmgrbzgvP4HqE6Xg&utm_source=social_share_send&utm_campaign=copy_link
+
 🛠 Tech Stack
 * Flutter (Dart)
 * Supabase (Database & Auth)
